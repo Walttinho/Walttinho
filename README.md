@@ -52,14 +52,24 @@
 <!-- <img align="center" alt="Wordpress" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="center" alt="Woocommerce" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" /> -->
 
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun" alt="Walter Netto's GitHub stats" />
+  
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=walttinho&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <details open >
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="left">
-    <img width="350em" src="https://streak-stats.demolab.com?user=walttinho&theme=prussian" />
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=walttinho&hide=prs,issues&show_icons=true&theme=prussian"/>
-    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&show_icons=true&theme=prussian"/>
-    <img width="410em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Walttinho&langs_count=8&theme=prussian" />
+    <img width="350em" src="https://streak-stats.demolab.com?user=walttinho&theme=outrun" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=walttinho&hide=prs,issues&show_icons=true&theme=outrun"/>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&show_icons=true&theme=outrun"/>
+    <img width="410em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Walttinho&langs_count=8&theme=outrun" />
     
   </div>
 </details>
