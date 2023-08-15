@@ -1,3 +1,8 @@
+<div align="center">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=262B94&width=100%&height=150&section=header"/>
+</div>
+
+
 ### Hi there 👋
 
 <!--
