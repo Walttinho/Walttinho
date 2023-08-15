@@ -20,6 +20,12 @@
 ## 💻 <mark>Tech Stack:</mark> <span style="font-size: 70%;">with some knowledge </span>
 
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,express,nodejs,postgres,github,git," />
+  </a>
+</p>
+
 ### Front-End
 
 <img align="center" alt="html5" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
