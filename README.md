@@ -1,6 +1,6 @@
 <!-- Cabeçalho -->
 <div align="center">
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=262B94&width=100%&height=150&section=header"/>
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=262B94&width=100%&height=120&section=header"/>
 </div>
 
 
@@ -52,7 +52,7 @@
 <!-- <img align="center" alt="Wordpress" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="center" alt="Woocommerce" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" /> -->
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=walttinho&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <details open >
   <summary><h3><strong>📊 Github Stats and Activity</strong></h3></summary>
   <div align="left">
