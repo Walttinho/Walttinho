@@ -41,6 +41,17 @@
 </p>
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun" alt="Walter Netto GitHub stats" />
+  
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+</div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=walttinho&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 ## Contatos:
 
@@ -52,6 +63,6 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=262B94&height=150&section=footer">
