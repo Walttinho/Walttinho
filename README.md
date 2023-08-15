@@ -36,7 +36,7 @@
 ## 💻 <mark>Tools:</mark>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,,bash,powershell, postman , github, figma, aws, linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,bash,powershell, postman , github, figma, aws, linux" />
   </a>
 </p>
 
