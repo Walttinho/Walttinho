@@ -14,7 +14,7 @@
 
 
 ### About me:
-[![Typing alling="center" alt="Bash" height="60" sVG](https://readme-typing-svg.demolab.com?font=jetbrains&weight=500&size=28&pause=1000&color=1243C4F0&width=800&height=50&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+projects+personal+private;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+software+developer+with+focus+on+backend;%E2%9A%A1+Curious+Facts%3A+i+like+cooking+and+puzzle+solved)](https://git.io/typing-svg)
+[![Typing alling="center" alt="Bash" height="60" sVG](https://readme-typing-svg.demolab.com?font=jetbrains&weight=500&size=26&pause=1000&color=1243C4F0&width=850&height=50&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+projects+personal+private;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+software+developer+with+focus+on+backend;%E2%9A%A1+Curious+Facts%3A+i+like+cooking+and+puzzle+solved)](https://git.io/typing-svg)
 
 
 ## 💻 <mark>Tech Stack:</mark> <span style="font-size: 70%;">with often use </span>
