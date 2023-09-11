@@ -48,7 +48,7 @@
 
 
 
-<!-- 
+ 
 <div align="center">
 <div align="left" >  
   <img  width="32%" height="150%" src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun" alt="Walter Netto GitHub status" />
@@ -58,7 +58,7 @@
 <div align="right">
   <img  width="32%" height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=walttinho&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true" alt="Walter Netto GitHub grafico" />
 </div>
-</div> -->
+</div> 
 
 ## Contatos:
 
