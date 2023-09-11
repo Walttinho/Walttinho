@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<div style="display: flex; height: 300px">
+<div style="display: flex; max-height: 300px">
         <div style="flex: 1; padding: 5px;">
             <img src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun" alt="Imagem 1" style="width: 80%;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" alt="Imagem 2" style="width: 80% ;">
