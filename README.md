@@ -38,28 +38,31 @@
 
 <div style="display: flex;">
         <div style="flex: 1; padding: 5px;">
-            <img src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun" alt="Imagem 1" style="width: 80%;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" alt="Imagem 2" style="width: 80% ;">
+            <img  height="175px" src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun" alt="Walter Netto GitHub stats" />
+            <img  height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
         </div>
         <div style="flex: 2; padding: 5px;">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=walttinho&bg_color=141439&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true" alt="Walter Netto GitHub grafico" alt="Imagem 3" style="height: 100%;">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Walttinho&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&custom_title=Walter%20Netto%20gitHub%20gráfico&hide_border=true" alt="Walter Netto GitHub grafico" alt="Imagem 3" style="height: 100%;">
         </div>
     </div>
 
 
 
  
-<div align="center">
+<!-- <div align="center">
 <div align="left" >  
   <img  width="32%" height="150%" src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun" alt="Walter Netto GitHub status" />
 
  <img  width="32%" height="75%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439"/>
 </div>
 <div align="right">
-  <img  width="32%" height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=walttinho&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true" alt="Walter Netto GitHub grafico" />
+  <img  width="32%" height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=walttinho&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true" alt="Walter Netto GitHub gráfico" />
 </div>
-</div> 
+</div>  -->
 
+
+
+[![Walter Netto GitHub gráfico](https://github-readme-activity-graph.vercel.app/graph?username=Walttinho&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&custom_title=Walter%20Netto%20gitHub%20gráfico&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Contatos:
 
 <div>
