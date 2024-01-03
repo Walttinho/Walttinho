@@ -12,19 +12,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains&weight=500&size=28&pause=1000&color=6A53C9&background=E356CD00&vCenter=true&width=1200&separator=%3C&lines=%F0%9F%94%AD+Atualmente+estou+trabalhando+em+projetos+pessoais+privados;%3C%F0%9F%8C%B1+Atualmente+estou+aprendendo+desenvolvimento+de+software+backend;%3C%E2%9A%A1+Curiosidades%3A+Eu+gosto+de+cozinhar+e+resolver+quebra-cabe%C3%A7as.)](https://git.io/typing-svg)
 
-## 💻 <mark>Linguagens:</mark> <span style="font-size: 70%;"> que uso frequentemente </span>
+## 💻 <mark>Linguagens e frameworks:</mark> <span style="font-size: 70%;"> que uso frequentemente </span>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,express,nodejs,mongodb,git,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,express,nodejs,flask,mongodb,git,postgres,jest&perline=5" />
   </a>
 </p>
 
-## 💻 <mark>Linguagens:</mark> <span style="font-size: 70%;">com algum conhecimento</span>
+## 💻 <mark>Linguagens e frameworks:</mark> <span style="font-size: 70%;">com algum conhecimento</span>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,php,html,css,react,angular,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,cs,react,angular,django,dotnet,graphql,kubernetes,nestjs,nginx,rabbitmq,sequelize,terraform&perline=5" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,bash,powershell,github,figma,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,bash,postman,powershell,github,githubactions,figma,aws,linux,discord,linkedin&perline=5" />
   </a>
 </p>
 
