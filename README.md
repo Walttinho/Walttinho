@@ -38,7 +38,7 @@
 
 <div style="display: flex;">
         <div style="flex: 1; padding: 5px;">
-            <img height="175px" src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun" alt="Walter Netto GitHub stats" />
+            <img height="175px" src="https://github-readme-stats.vercel.app/api?username=walttinho&show_icons=true&theme=outrun&count_private=true" alt="Walter Netto GitHub stats" />
             <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walttinho&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
         </div>
         <div style="flex: 2; padding: 5px;">
