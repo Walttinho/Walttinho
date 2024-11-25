@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <iframe src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85">via GIPHY</a></p>
+ <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="100%" height="100%" style="position:absolute" ></img></div>
 </div>
 
 ## Olá!<img alling="center" height="55" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Meu nome é Walter Netto...
