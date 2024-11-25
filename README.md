@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,react,angular,django,dotnet,graphql,kubernetes,nestjs,nginx,rabbitmq,sequelize,terraform&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,cs,react,angular,java,django,dotnet,graphql,kubernetes,nestjs,nginx,rabbitmq,sequelize,terraform&perline=5" />
   </a>
 </p>
 
