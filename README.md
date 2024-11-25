@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/QNFhOolVeCzPQ2Mx85" width="100%" height="100%" style="position:absolute" ></img></div>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRjZGE2bWptMDVheDF0dHJyNGg3aGZ6NHJ1MjF0d2NsNnp1anV1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%" height="100%" style="position:absolute" ></img></div>
 </div>
 
 ## Olá!<img alling="center" height="55" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Meu nome é Walter Netto...
